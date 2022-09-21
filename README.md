@@ -6,8 +6,8 @@ provider.
 ## Install
 
 ```bash
-git clone https://github.com/shahbaz17/biconomy-web3auth-example
-cd biconomy-web3auth-example
+git clone https://github.com/Web3Auth/biconomy-html-version.git
+cd biconomy-html-version
 npm install
 npm start
 ```
