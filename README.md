@@ -7,7 +7,7 @@ provider.
 
 ```bash
 git clone https://github.com/Web3Auth/biconomy-web3auth-example
-cd biconomy-html-version
+cd biconomy-web3auth-example
 npm install
 npm start
 ```
